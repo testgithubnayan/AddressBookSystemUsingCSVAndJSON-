@@ -1,0 +1,2 @@
+Contact{firstName='Nayan', lastName='Soni', address='baheti colony ', city='khandwa', state='mp', zip=450001, phoneNumber=3658975412, email='Nayan.sonipro@gmail.com'}
+Contact{firstName='aman', lastName='Shinde', address='mata chock', city='indore', state='mp', zip=4500002, phoneNumber=8569412365, email='aman.shindepro@gmail.com'}
